@@ -37,7 +37,9 @@ n = int(input())
 
 ## Output:
 
-![Output](solution2.png)
+![solution1](https://user-images.githubusercontent.com/118787261/208958748-a78234a3-4110-4c61-89b3-3bce02c1beb5.png)
+
+
 
 ## Result:
 Thus the circulate the values of N variable are successfully executed
